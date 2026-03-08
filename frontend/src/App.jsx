@@ -131,7 +131,7 @@ const App = () => {
       <div className="spotlight" />
 
       <header className="header">
-        <h1 className="title">SPIN & SOLVE</h1>
+        <h1 className="title">Re Think To Rise</h1>
         <p className="subtitle">THE ULTIMATE DESIGN CHALLENGE</p>
       </header>
 
